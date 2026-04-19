@@ -3,7 +3,7 @@
 ## 🔍 Overview
 This project focuses on analyzing employee and project datasets using Python. The goal was to optimize resource utilization, improve cost efficiency, and uncover performance insights.
 
-The project simulates real-world data challenges including cleaning, transformation, and exploratory analysis.
+The project simulates real-world data challenges including cleaning, transformation, and exploratory data analysis.
 
 ---
 
@@ -13,7 +13,7 @@ The project simulates real-world data challenges including cleaning, transformat
 - Handled missing values using Pandas
 - Performed data transformation and formatting
 
-### 🔹 Data Analysis (EDA)
+### 🔹 Exploratory Data Analysis (EDA)
 - Analyzed employee performance and project costs
 - Explored trends and patterns in resource allocation
 
